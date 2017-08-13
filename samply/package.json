@@ -1,0 +1,22 @@
+{
+  "name": "samply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron-start index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+    "cmz": "^3.5.0",
+    "draw-wave": "^2.0.0",
+    "make-distortion-curve": "^1.0.0",
+    "wave-recorder": "^2.3.0"
+  },
+  "devDependencies": {
+    "electron-start": "^1.0.0"
+  }
+}
